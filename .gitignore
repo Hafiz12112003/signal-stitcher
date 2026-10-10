@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+data/signals.jsonl
+data/clean.jsonl
+data/state.json
+data/embeddings_*.npy
+data/themes_*.json
+viewer/node_modules/
+viewer/dist/
